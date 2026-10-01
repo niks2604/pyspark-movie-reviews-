@@ -1,0 +1,3 @@
+cleaned_reviews_output/
+*.csv
+__pycache__/
